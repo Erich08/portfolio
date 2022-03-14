@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Portfolio
 
-Make it your own! 
+- Link to my portfolio [here](https://erich-portfolio.netlify.app).
